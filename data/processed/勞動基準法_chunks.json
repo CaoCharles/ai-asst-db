@@ -1,0 +1,674 @@
+{
+    "doc_id": "LAW-001",
+    "title": "勞動基準法",
+    "version": 1,
+    "source": "全國法規資料庫",
+    "law_version": "民國112年修正",
+    "effective_date": "2023-06-21",
+    "processed_at": "2024-12-24T22:50:00+08:00",
+    "total_chunks": 15,
+    "chunks": [
+        {
+            "chunk_id": "LAW-001-001",
+            "article_number": "第1條",
+            "chapter": "第一章 總則",
+            "title": "立法目的",
+            "content": "為規定勞動條件最低標準，保障勞工權益，加強勞雇關係，促進社會與經濟發展，特制定本法；本法未規定者，適用其他法律之規定。雇主與勞工所訂勞動條件，不得低於本法所定之最低標準。",
+            "summary": "說明勞基法立法目的及最低標準原則",
+            "keywords": [
+                "立法目的",
+                "最低標準",
+                "勞工權益",
+                "勞雇關係"
+            ],
+            "entities": [
+                {
+                    "type": "角色",
+                    "value": "雇主"
+                },
+                {
+                    "type": "角色",
+                    "value": "勞工"
+                },
+                {
+                    "type": "概念",
+                    "value": "勞動條件"
+                },
+                {
+                    "type": "概念",
+                    "value": "最低標準"
+                }
+            ],
+            "related_articles": [
+                "第2條",
+                "第84條"
+            ],
+            "metadata": {
+                "article_type": "總則",
+                "importance": "high",
+                "frequently_cited": true
+            }
+        },
+        {
+            "chunk_id": "LAW-001-002",
+            "article_number": "第2條",
+            "chapter": "第一章 總則",
+            "title": "名詞定義",
+            "content": "一、勞工：謂受雇主僱用從事工作獲致工資者。二、雇主：謂僱用勞工之事業主、事業經營之負責人或代表事業主處理有關勞工事務之人。三、工資：謂勞工因工作而獲得之報酬。四、平均工資：謂計算事由發生之當日前六個月內所得工資總額除以該期間之總日數所得之金額。",
+            "summary": "定義勞基法重要名詞：勞工、雇主、工資、平均工資",
+            "keywords": [
+                "定義",
+                "勞工",
+                "雇主",
+                "工資",
+                "平均工資"
+            ],
+            "entities": [
+                {
+                    "type": "名詞定義",
+                    "value": "勞工"
+                },
+                {
+                    "type": "名詞定義",
+                    "value": "雇主"
+                },
+                {
+                    "type": "名詞定義",
+                    "value": "工資"
+                },
+                {
+                    "type": "名詞定義",
+                    "value": "平均工資"
+                }
+            ],
+            "related_articles": [
+                "第1條",
+                "第21條",
+                "第22條"
+            ],
+            "metadata": {
+                "article_type": "定義條款",
+                "importance": "high",
+                "frequently_cited": true
+            }
+        },
+        {
+            "chunk_id": "LAW-001-009",
+            "article_number": "第9條",
+            "chapter": "第二章 勞動契約",
+            "title": "勞動契約之訂定",
+            "content": "勞動契約，分為定期契約及不定期契約。臨時性、短期性、季節性及特定性工作得為定期契約；有繼續性工作應為不定期契約。",
+            "summary": "規範勞動契約分類：定期契約適用於臨時性工作，不定期契約適用於繼續性工作",
+            "keywords": [
+                "勞動契約",
+                "定期契約",
+                "不定期契約",
+                "臨時工"
+            ],
+            "entities": [
+                {
+                    "type": "契約類型",
+                    "value": "定期契約"
+                },
+                {
+                    "type": "契約類型",
+                    "value": "不定期契約"
+                },
+                {
+                    "type": "工作類型",
+                    "value": "臨時性工作"
+                },
+                {
+                    "type": "工作類型",
+                    "value": "繼續性工作"
+                }
+            ],
+            "related_articles": [
+                "第10條",
+                "第11條",
+                "第12條"
+            ],
+            "metadata": {
+                "article_type": "契約規定",
+                "importance": "high",
+                "frequently_cited": true,
+                "common_questions": [
+                    "派遣是什麼契約",
+                    "臨時工權益"
+                ]
+            }
+        },
+        {
+            "chunk_id": "LAW-001-021",
+            "article_number": "第21條",
+            "chapter": "第三章 工資",
+            "title": "基本工資",
+            "content": "工資由勞雇雙方議定之。但不得低於基本工資。前項基本工資，由中央主管機關設基本工資審議委員會擬訂後，報請行政院核定之。",
+            "summary": "工資由勞雇雙方議定，但不得低於基本工資；基本工資由審議委員會擬訂",
+            "keywords": [
+                "基本工資",
+                "工資議定",
+                "基本工資審議委員會",
+                "最低工資"
+            ],
+            "entities": [
+                {
+                    "type": "金額規定",
+                    "value": "月薪27470元（2024年）"
+                },
+                {
+                    "type": "金額規定",
+                    "value": "時薪183元（2024年）"
+                },
+                {
+                    "type": "機構",
+                    "value": "基本工資審議委員會"
+                },
+                {
+                    "type": "機構",
+                    "value": "行政院"
+                }
+            ],
+            "related_articles": [
+                "第2條",
+                "第22條",
+                "第23條"
+            ],
+            "metadata": {
+                "article_type": "工資規定",
+                "importance": "high",
+                "frequently_cited": true,
+                "current_values": {
+                    "monthly_minimum": 27470,
+                    "hourly_minimum": 183,
+                    "effective_date": "2024-01-01"
+                }
+            }
+        },
+        {
+            "chunk_id": "LAW-001-022",
+            "article_number": "第22條",
+            "chapter": "第三章 工資",
+            "title": "工資給付方式",
+            "content": "工資之給付，應以法定通用貨幣為之。但基於習慣或業務性質，得於勞動契約內訂明一部以實物給付之。工資應全額直接給付勞工。",
+            "summary": "工資應以法定貨幣全額直接給付勞工",
+            "keywords": [
+                "工資給付",
+                "全額給付",
+                "直接給付",
+                "薪資發放"
+            ],
+            "entities": [
+                {
+                    "type": "原則",
+                    "value": "法定通用貨幣"
+                },
+                {
+                    "type": "原則",
+                    "value": "全額給付"
+                },
+                {
+                    "type": "原則",
+                    "value": "直接給付"
+                }
+            ],
+            "related_articles": [
+                "第21條",
+                "第23條",
+                "第26條"
+            ],
+            "metadata": {
+                "article_type": "工資規定",
+                "importance": "medium",
+                "frequently_cited": true
+            }
+        },
+        {
+            "chunk_id": "LAW-001-030",
+            "article_number": "第30條",
+            "chapter": "第四章 工作時間、休息、休假",
+            "title": "正常工作時間",
+            "content": "勞工正常工作時間，每日不得超過八小時，每週不得超過四十小時。",
+            "summary": "規定正常工時上限：每日8小時、每週40小時",
+            "keywords": [
+                "正常工時",
+                "每日八小時",
+                "每週四十小時",
+                "工作時間"
+            ],
+            "entities": [
+                {
+                    "type": "數值規定",
+                    "value": "每日8小時"
+                },
+                {
+                    "type": "數值規定",
+                    "value": "每週40小時"
+                }
+            ],
+            "related_articles": [
+                "第30-1條",
+                "第32條",
+                "第36條"
+            ],
+            "metadata": {
+                "article_type": "工時規定",
+                "importance": "high",
+                "frequently_cited": true,
+                "common_questions": [
+                    "一天可以工作幾小時",
+                    "法定工時是多少"
+                ]
+            }
+        },
+        {
+            "chunk_id": "LAW-001-032",
+            "article_number": "第32條",
+            "chapter": "第四章 工作時間、休息、休假",
+            "title": "延長工作時間",
+            "content": "雇主有使勞工在正常工作時間以外工作之必要者，雇主經工會同意，如事業單位無工會者，經勞資會議同意後，得將工作時間延長之。延長之工作時間，一個月不得超過四十六小時。",
+            "summary": "加班須經工會或勞資會議同意，每月加班上限46小時",
+            "keywords": [
+                "加班",
+                "延長工時",
+                "四十六小時",
+                "工會同意",
+                "勞資會議"
+            ],
+            "entities": [
+                {
+                    "type": "數值規定",
+                    "value": "每月46小時"
+                },
+                {
+                    "type": "程序",
+                    "value": "工會同意"
+                },
+                {
+                    "type": "程序",
+                    "value": "勞資會議同意"
+                }
+            ],
+            "related_articles": [
+                "第30條",
+                "第24條",
+                "第36條"
+            ],
+            "metadata": {
+                "article_type": "工時規定",
+                "importance": "high",
+                "frequently_cited": true,
+                "common_questions": [
+                    "加班費怎麼算",
+                    "一個月最多加班幾小時"
+                ]
+            }
+        },
+        {
+            "chunk_id": "LAW-001-036",
+            "article_number": "第36條",
+            "chapter": "第四章 工作時間、休息、休假",
+            "title": "例假",
+            "content": "勞工每七日中應有二日之休息，其中一日為例假，一日為休息日。",
+            "summary": "一例一休制度：每週應有例假日和休息日各一天",
+            "keywords": [
+                "例假",
+                "休息日",
+                "一例一休",
+                "週休二日"
+            ],
+            "entities": [
+                {
+                    "type": "休假類型",
+                    "value": "例假"
+                },
+                {
+                    "type": "休假類型",
+                    "value": "休息日"
+                },
+                {
+                    "type": "制度",
+                    "value": "一例一休"
+                }
+            ],
+            "related_articles": [
+                "第37條",
+                "第38條",
+                "第39條"
+            ],
+            "metadata": {
+                "article_type": "休假規定",
+                "importance": "high",
+                "frequently_cited": true
+            }
+        },
+        {
+            "chunk_id": "LAW-001-037",
+            "article_number": "第37條",
+            "chapter": "第四章 工作時間、休息、休假",
+            "title": "國定假日",
+            "content": "內政部所定應放假之紀念日、節日、勞動節及其他中央主管機關指定應放假日，均應休假。",
+            "summary": "國定假日包含紀念日、節日、勞動節等應放假日",
+            "keywords": [
+                "國定假日",
+                "紀念日",
+                "節日",
+                "勞動節"
+            ],
+            "entities": [
+                {
+                    "type": "假日類型",
+                    "value": "紀念日"
+                },
+                {
+                    "type": "假日類型",
+                    "value": "節日"
+                },
+                {
+                    "type": "假日類型",
+                    "value": "勞動節"
+                },
+                {
+                    "type": "機構",
+                    "value": "內政部"
+                }
+            ],
+            "related_articles": [
+                "第36條",
+                "第38條",
+                "第39條"
+            ],
+            "metadata": {
+                "article_type": "休假規定",
+                "importance": "medium",
+                "frequently_cited": true
+            }
+        },
+        {
+            "chunk_id": "LAW-001-038",
+            "article_number": "第38條",
+            "chapter": "第四章 工作時間、休息、休假",
+            "title": "特別休假",
+            "content": "勞工在同一雇主或事業單位，繼續工作滿一定期間者，應依下列規定給予特別休假：一、六個月以上一年未滿者，三日。二、一年以上二年未滿者，七日。三、二年以上三年未滿者，十日。四、三年以上五年未滿者，每年十四日。五、五年以上十年未滿者，每年十五日。六、十年以上者，每一年加給一日，加至三十日為止。",
+            "summary": "特休天數依年資計算：6個月3天、1年7天、2年10天，最多30天",
+            "keywords": [
+                "特別休假",
+                "年假",
+                "特休",
+                "休假天數"
+            ],
+            "entities": [
+                {
+                    "type": "年資天數",
+                    "value": "6個月以上: 3天"
+                },
+                {
+                    "type": "年資天數",
+                    "value": "1年以上: 7天"
+                },
+                {
+                    "type": "年資天數",
+                    "value": "2年以上: 10天"
+                },
+                {
+                    "type": "年資天數",
+                    "value": "3年以上: 14天"
+                },
+                {
+                    "type": "年資天數",
+                    "value": "5年以上: 15天"
+                },
+                {
+                    "type": "年資天數",
+                    "value": "10年以上: 每年+1天，最多30天"
+                }
+            ],
+            "related_articles": [
+                "第36條",
+                "第37條",
+                "第39條"
+            ],
+            "metadata": {
+                "article_type": "休假規定",
+                "importance": "high",
+                "frequently_cited": true,
+                "common_questions": [
+                    "特休有幾天",
+                    "年假怎麼算"
+                ]
+            }
+        },
+        {
+            "chunk_id": "LAW-001-044",
+            "article_number": "第44條",
+            "chapter": "第五章 童工、女工",
+            "title": "童工之定義",
+            "content": "十五歲以上未滿十六歲之受僱從事工作者，為童工。童工及十六歲以上未滿十八歲之人，不得從事危險性或有害性之工作。",
+            "summary": "童工定義為15-16歲，童工及未成年不得從事危險工作",
+            "keywords": [
+                "童工",
+                "未成年勞工",
+                "危險工作",
+                "年齡限制"
+            ],
+            "entities": [
+                {
+                    "type": "年齡定義",
+                    "value": "童工: 15-16歲"
+                },
+                {
+                    "type": "年齡定義",
+                    "value": "未成年: 16-18歲"
+                },
+                {
+                    "type": "限制",
+                    "value": "禁止危險性工作"
+                }
+            ],
+            "related_articles": [
+                "第45條",
+                "第46條",
+                "第47條"
+            ],
+            "metadata": {
+                "article_type": "特殊保護",
+                "importance": "medium",
+                "frequently_cited": false
+            }
+        },
+        {
+            "chunk_id": "LAW-001-053",
+            "article_number": "第53條",
+            "chapter": "第六章 退休",
+            "title": "自請退休",
+            "content": "勞工有下列情形之一，得自請退休：一、工作十五年以上年滿五十五歲者。二、工作二十五年以上者。三、工作十年以上年滿六十歲者。",
+            "summary": "自請退休條件：(1)15年+55歲 (2)25年 (3)10年+60歲",
+            "keywords": [
+                "自請退休",
+                "退休條件",
+                "退休年齡",
+                "年資"
+            ],
+            "entities": [
+                {
+                    "type": "退休條件",
+                    "value": "工作15年以上且年滿55歲"
+                },
+                {
+                    "type": "退休條件",
+                    "value": "工作25年以上"
+                },
+                {
+                    "type": "退休條件",
+                    "value": "工作10年以上且年滿60歲"
+                }
+            ],
+            "related_articles": [
+                "第54條",
+                "第55條",
+                "第56條"
+            ],
+            "metadata": {
+                "article_type": "退休規定",
+                "importance": "high",
+                "frequently_cited": true,
+                "common_questions": [
+                    "什麼時候可以退休",
+                    "退休條件是什麼"
+                ]
+            }
+        },
+        {
+            "chunk_id": "LAW-001-054",
+            "article_number": "第54條",
+            "chapter": "第六章 退休",
+            "title": "強制退休",
+            "content": "勞工非有下列情形之一，雇主不得強制其退休：一、年滿六十五歲者。二、身心障礙不堪勝任工作者。",
+            "summary": "強制退休僅限：(1)年滿65歲 (2)身心障礙不堪勝任",
+            "keywords": [
+                "強制退休",
+                "退休年齡",
+                "65歲",
+                "身心障礙"
+            ],
+            "entities": [
+                {
+                    "type": "退休條件",
+                    "value": "年滿65歲"
+                },
+                {
+                    "type": "退休條件",
+                    "value": "身心障礙不堪勝任工作"
+                }
+            ],
+            "related_articles": [
+                "第53條",
+                "第55條",
+                "第56條"
+            ],
+            "metadata": {
+                "article_type": "退休規定",
+                "importance": "high",
+                "frequently_cited": true
+            }
+        },
+        {
+            "chunk_id": "LAW-001-059",
+            "article_number": "第59條",
+            "chapter": "第七章 職業災害補償",
+            "title": "職業災害之補償",
+            "content": "勞工因遭遇職業災害而致死亡、失能、傷害或疾病時，雇主應依下列規定予以補償：一、勞工受傷或罹患職業病時，雇主應補償其必需之醫療費用。二、勞工在醫療中不能工作時，雇主應按其原領工資數額予以補償。三、勞工經治療終止後，經指定之醫院診斷，審定其遺存障害者，雇主應按其平均工資及其失能程度，一次給予失能補償。四、勞工遭遇職業傷害或罹患職業病而死亡時，雇主除給與五個月平均工資之喪葬費外，並應一次給與其遺屬四十個月平均工資之死亡補償。",
+            "summary": "職災補償包含：醫療費用、工資補償、失能補償、死亡補償（喪葬費5個月+死亡補償40個月）",
+            "keywords": [
+                "職業災害",
+                "職災補償",
+                "工傷",
+                "職業病",
+                "醫療費用",
+                "失能補償"
+            ],
+            "entities": [
+                {
+                    "type": "補償類型",
+                    "value": "醫療費用"
+                },
+                {
+                    "type": "補償類型",
+                    "value": "工資補償"
+                },
+                {
+                    "type": "補償類型",
+                    "value": "失能補償"
+                },
+                {
+                    "type": "補償類型",
+                    "value": "死亡補償"
+                },
+                {
+                    "type": "金額規定",
+                    "value": "喪葬費: 5個月平均工資"
+                },
+                {
+                    "type": "金額規定",
+                    "value": "死亡補償: 40個月平均工資"
+                }
+            ],
+            "related_articles": [
+                "第60條",
+                "第61條",
+                "第62條"
+            ],
+            "metadata": {
+                "article_type": "職災補償",
+                "importance": "high",
+                "frequently_cited": true,
+                "common_questions": [
+                    "工傷怎麼賠",
+                    "職災補償有哪些"
+                ]
+            }
+        },
+        {
+            "chunk_id": "LAW-001-049",
+            "article_number": "第49條",
+            "chapter": "第五章 童工、女工",
+            "title": "女工夜間工作",
+            "content": "雇主不得使女工於午後十時至翌晨六時之時間內工作。但雇主經工會同意，如事業單位無工會者，經勞資會議同意後，且符合下列各款規定者，不在此限。",
+            "summary": "女工原則禁止夜間工作(22:00-06:00)，但經工會或勞資會議同意可例外",
+            "keywords": [
+                "女工",
+                "夜間工作",
+                "夜班",
+                "工會同意"
+            ],
+            "entities": [
+                {
+                    "type": "時間規定",
+                    "value": "22:00-06:00"
+                },
+                {
+                    "type": "程序",
+                    "value": "工會同意"
+                },
+                {
+                    "type": "程序",
+                    "value": "勞資會議同意"
+                }
+            ],
+            "related_articles": [
+                "第44條",
+                "第50條",
+                "第51條"
+            ],
+            "metadata": {
+                "article_type": "特殊保護",
+                "importance": "medium",
+                "frequently_cited": false
+            }
+        }
+    ],
+    "ai_metadata": {
+        "model": "gpt-4",
+        "processing_time_ms": 15000,
+        "embedding_model": "text-embedding-3-small",
+        "chunk_strategy": "article-based"
+    },
+    "graph_structure": {
+        "node_types": [
+            "條款",
+            "角色",
+            "概念",
+            "數值規定",
+            "程序",
+            "機構"
+        ],
+        "edge_types": [
+            "related_to",
+            "defines",
+            "restricts",
+            "requires"
+        ],
+        "total_nodes": 45,
+        "total_edges": 28
+    }
+}

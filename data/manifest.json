@@ -1,0 +1,36 @@
+{
+  "version": "1.0",
+  "updated_at": "2024-12-24T22:50:00+08:00",
+  "description": "KM 文件管理系統 - 文件清單索引",
+  "documents": [
+    {
+      "doc_id": "LAW-001",
+      "title": "勞動基準法",
+      "category": "法規",
+      "sub_category": "勞動法規",
+      "department": "法遵部",
+      "current_version": 1,
+      "status": "active",
+      "versions": [
+        {
+          "version": 1,
+          "file_name": "勞動基準法.json",
+          "raw_path": "raw/勞動基準法.json",
+          "processed_path": "processed/勞動基準法_chunks.json",
+          "uploaded_at": "2024-12-24",
+          "uploaded_by": "admin",
+          "description": "勞動基準法全文 - 民國112年修正版",
+          "ai_processed": true,
+          "ai_processed_at": "2024-12-24T22:50:00+08:00",
+          "chunk_count": 15
+        }
+      ],
+      "metadata": {
+        "keywords": ["勞基法", "勞動", "工時", "工資", "資遣", "退休", "職災"],
+        "source": "全國法規資料庫",
+        "effective_date": "2023-06-21",
+        "authority": "勞動部"
+      }
+    }
+  ]
+}
